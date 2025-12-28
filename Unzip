@@ -1,0 +1,4 @@
+cd /workspaces/Scholarship-Track
+git add .
+git commit -m "Your message here"
+git push origin main
